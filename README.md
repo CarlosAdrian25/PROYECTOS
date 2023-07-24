@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosAdrian25
 - 👀 I’m interested in coding and music 
-- 🌱 I’m currently learning books 
+- 🌱 I’m currently learning html, css, c# and python
 - 💞️ I’m looking to collaborate on the working
 - 📫 How to reach me whit coding in python
 
